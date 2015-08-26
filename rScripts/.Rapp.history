@@ -1,0 +1,3 @@
+a = 'ab'
+b = 'cd'
+paste0(a,b)
